@@ -1,6 +1,9 @@
 jefbrifbrinfirfirnf
 jbirtbgi4rbg
-
+ojt4t04jt\
+rgrgr
+gtg
+r
 struct node
 {
 	int data;
